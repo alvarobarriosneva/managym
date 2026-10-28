@@ -1,0 +1,1333 @@
+[
+{
+  "model": "gestion.socio",
+  "pk": 1,
+  "fields": {
+    "nombre": "Ana",
+    "apellidos": "Martínez Pérez",
+    "email": "socio@gimnasio.com",
+    "telefono": "611222333",
+    "fecha_alta": "2026-10-28",
+    "activo": true
+  }
+},
+{
+  "model": "gestion.socio",
+  "pk": 2,
+  "fields": {
+    "nombre": "Juan Luis",
+    "apellidos": "Ochoa Pérez",
+    "email": "marcofernanda@example.net",
+    "telefono": "+34 975936282",
+    "fecha_alta": "2026-10-28",
+    "activo": true
+  }
+},
+{
+  "model": "gestion.socio",
+  "pk": 3,
+  "fields": {
+    "nombre": "Aránzazu",
+    "apellidos": "Manjón Borja",
+    "email": "franciscodieguez@example.com",
+    "telefono": "+34988 230 710",
+    "fecha_alta": "2026-10-28",
+    "activo": true
+  }
+},
+{
+  "model": "gestion.socio",
+  "pk": 4,
+  "fields": {
+    "nombre": "Santos",
+    "apellidos": "Osorio Gutiérrez",
+    "email": "jcrespo@example.org",
+    "telefono": "+34974 588 258",
+    "fecha_alta": "2026-10-28",
+    "activo": true
+  }
+},
+{
+  "model": "gestion.socio",
+  "pk": 5,
+  "fields": {
+    "nombre": "Bienvenida",
+    "apellidos": "Sanz Marco",
+    "email": "graciano74@example.net",
+    "telefono": "+34971 237 645",
+    "fecha_alta": "2026-10-28",
+    "activo": true
+  }
+},
+{
+  "model": "gestion.socio",
+  "pk": 6,
+  "fields": {
+    "nombre": "Guillermo",
+    "apellidos": "Bertrán Bosch",
+    "email": "robledoalicia@example.net",
+    "telefono": "+34 885427161",
+    "fecha_alta": "2026-10-28",
+    "activo": true
+  }
+},
+{
+  "model": "gestion.socio",
+  "pk": 7,
+  "fields": {
+    "nombre": "Pastor",
+    "apellidos": "Duarte Montenegro",
+    "email": "uagudo@example.net",
+    "telefono": "+34 872 461 349",
+    "fecha_alta": "2026-10-28",
+    "activo": true
+  }
+},
+{
+  "model": "gestion.socio",
+  "pk": 8,
+  "fields": {
+    "nombre": "Nazario",
+    "apellidos": "Asensio Aroca",
+    "email": "pujolmarco@example.org",
+    "telefono": "+34 879 926 132",
+    "fecha_alta": "2026-10-28",
+    "activo": true
+  }
+},
+{
+  "model": "gestion.socio",
+  "pk": 9,
+  "fields": {
+    "nombre": "Tomás",
+    "apellidos": "Recio Borja",
+    "email": "ccadenas@example.org",
+    "telefono": "+34 877 601 623",
+    "fecha_alta": "2026-10-28",
+    "activo": true
+  }
+},
+{
+  "model": "gestion.socio",
+  "pk": 10,
+  "fields": {
+    "nombre": "Antonio",
+    "apellidos": "Giménez Velasco",
+    "email": "uleon@example.com",
+    "telefono": "+34 821 81 57 3",
+    "fecha_alta": "2026-10-28",
+    "activo": true
+  }
+},
+{
+  "model": "gestion.socio",
+  "pk": 11,
+  "fields": {
+    "nombre": "Nilda",
+    "apellidos": "Escrivá Avilés",
+    "email": "isabernat@example.net",
+    "telefono": "+34 719127272",
+    "fecha_alta": "2026-10-28",
+    "activo": true
+  }
+},
+{
+  "model": "gestion.perfilsocio",
+  "pk": 1,
+  "fields": {
+    "socio": 1,
+    "fecha_nacimiento": "2000-01-10",
+    "direccion": "Calle Mayor 10",
+    "contacto_emergencia": "600111222",
+    "observaciones": "Socio de prueba"
+  }
+},
+{
+  "model": "gestion.perfilsocio",
+  "pk": 2,
+  "fields": {
+    "socio": 2,
+    "fecha_nacimiento": "1985-07-06",
+    "direccion": "Plaza Paco Corral 30 Piso 4 \nHuesca, 28392",
+    "contacto_emergencia": "+34 979704425",
+    "observaciones": "Cuestión manos quiero. Dólares vino crisis o hizo estaba todavía."
+  }
+},
+{
+  "model": "gestion.perfilsocio",
+  "pk": 3,
+  "fields": {
+    "socio": 3,
+    "fecha_nacimiento": "2007-12-28",
+    "direccion": "Urbanización de Caridad Amador 47\nGirona, 14571",
+    "contacto_emergencia": "+34846917180",
+    "observaciones": "Principales habían te según elementos época amigo acerca."
+  }
+},
+{
+  "model": "gestion.perfilsocio",
+  "pk": 4,
+  "fields": {
+    "socio": 4,
+    "fecha_nacimiento": "1996-06-15",
+    "direccion": "Acceso de Jesús Vila 27\nSoria, 46934",
+    "contacto_emergencia": "+34 982 97 38 02",
+    "observaciones": "Últimos santiago pregunta viene. Duda participación club autoridades mirada vivir."
+  }
+},
+{
+  "model": "gestion.perfilsocio",
+  "pk": 5,
+  "fields": {
+    "socio": 5,
+    "fecha_nacimiento": "1985-11-14",
+    "direccion": "Camino Ariel Parejo 27 Apt. 75 \nToledo, 15704",
+    "contacto_emergencia": "+34876483752",
+    "observaciones": "Común han capital mantener necesidad han trabajadores. Toda mucho lleva siglo figura bueno."
+  }
+},
+{
+  "model": "gestion.perfilsocio",
+  "pk": 6,
+  "fields": {
+    "socio": 6,
+    "fecha_nacimiento": "1965-01-13",
+    "direccion": "Cuesta Emperatriz Chamorro 28 Apt. 81 \nHuelva, 43419",
+    "contacto_emergencia": "+34 841 23 11 19",
+    "observaciones": "Hemos recursos semanas oficial. Madrid razón vez pensar."
+  }
+},
+{
+  "model": "gestion.perfilsocio",
+  "pk": 7,
+  "fields": {
+    "socio": 7,
+    "fecha_nacimiento": "1990-03-17",
+    "direccion": "Cañada de Maxi Rios 99 Puerta 7 \nLleida, 27864",
+    "contacto_emergencia": "+34706 75 04 45",
+    "observaciones": "Programa cultural han decir. Aunque sectores soy partes. Aunque volvió habla guerra zona estaba."
+  }
+},
+{
+  "model": "gestion.perfilsocio",
+  "pk": 8,
+  "fields": {
+    "socio": 8,
+    "fecha_nacimiento": "1975-09-09",
+    "direccion": "Acceso de Jordana Fabregat 79\nGirona, 11783",
+    "contacto_emergencia": "+34 943 355 820",
+    "observaciones": "Número lópez suelo punto hubo generales."
+  }
+},
+{
+  "model": "gestion.perfilsocio",
+  "pk": 9,
+  "fields": {
+    "socio": 9,
+    "fecha_nacimiento": "1954-02-22",
+    "direccion": "Rambla Paula Benavente 10 Puerta 3 \nSanta Cruz de Tenerife, 42306",
+    "contacto_emergencia": "+34877328065",
+    "observaciones": "Baja relaciones señora trabajo tal. Menos medio nombre jamás claro. Le b va secretario volvió pone."
+  }
+},
+{
+  "model": "gestion.perfilsocio",
+  "pk": 10,
+  "fields": {
+    "socio": 10,
+    "fecha_nacimiento": "2003-02-22",
+    "direccion": "Pasaje Martirio Carmona 3 Piso 6 \nSalamanca, 34038",
+    "contacto_emergencia": "+34 826 20 26 64",
+    "observaciones": "Partes peso obras creación. Vamos serie gracias lugar debe pasa."
+  }
+},
+{
+  "model": "gestion.perfilsocio",
+  "pk": 11,
+  "fields": {
+    "socio": 11,
+    "fecha_nacimiento": "1953-12-08",
+    "direccion": "Glorieta Dani Arcos 98\nSoria, 04299",
+    "contacto_emergencia": "+34 828 12 39 35",
+    "observaciones": "Cuyo blanco tal elecciones seguridad.\nSeguir cuestión tenemos miembros. Ver puesto dinero les."
+  }
+},
+{
+  "model": "gestion.credencial",
+  "pk": 1,
+  "fields": {
+    "socio": 1,
+    "codigo": "SOCIO-001",
+    "fecha_emision": "2026-10-28",
+    "activa": true,
+    "tipo": "Socio"
+  }
+},
+{
+  "model": "gestion.credencial",
+  "pk": 2,
+  "fields": {
+    "socio": 2,
+    "codigo": "CR-hEBv-4192",
+    "fecha_emision": "2026-10-28",
+    "activa": true,
+    "tipo": "Socio"
+  }
+},
+{
+  "model": "gestion.credencial",
+  "pk": 3,
+  "fields": {
+    "socio": 3,
+    "codigo": "CR-lhVL-9369",
+    "fecha_emision": "2026-10-28",
+    "activa": true,
+    "tipo": "Socio"
+  }
+},
+{
+  "model": "gestion.credencial",
+  "pk": 4,
+  "fields": {
+    "socio": 4,
+    "codigo": "CR-EIPR-9153",
+    "fecha_emision": "2026-10-28",
+    "activa": true,
+    "tipo": "Socio"
+  }
+},
+{
+  "model": "gestion.credencial",
+  "pk": 5,
+  "fields": {
+    "socio": 5,
+    "codigo": "CR-EeGF-7898",
+    "fecha_emision": "2026-10-28",
+    "activa": true,
+    "tipo": "Socio"
+  }
+},
+{
+  "model": "gestion.credencial",
+  "pk": 6,
+  "fields": {
+    "socio": 6,
+    "codigo": "CR-sCRF-7226",
+    "fecha_emision": "2026-10-28",
+    "activa": true,
+    "tipo": "Socio"
+  }
+},
+{
+  "model": "gestion.credencial",
+  "pk": 7,
+  "fields": {
+    "socio": 7,
+    "codigo": "CR-DmYA-9523",
+    "fecha_emision": "2026-10-28",
+    "activa": true,
+    "tipo": "Socio"
+  }
+},
+{
+  "model": "gestion.credencial",
+  "pk": 8,
+  "fields": {
+    "socio": 8,
+    "codigo": "CR-Tuhr-3847",
+    "fecha_emision": "2026-10-28",
+    "activa": true,
+    "tipo": "Socio"
+  }
+},
+{
+  "model": "gestion.credencial",
+  "pk": 9,
+  "fields": {
+    "socio": 9,
+    "codigo": "CR-lDyG-8222",
+    "fecha_emision": "2026-10-28",
+    "activa": true,
+    "tipo": "Socio"
+  }
+},
+{
+  "model": "gestion.credencial",
+  "pk": 10,
+  "fields": {
+    "socio": 10,
+    "codigo": "CR-OSgO-2935",
+    "fecha_emision": "2026-10-28",
+    "activa": true,
+    "tipo": "Socio"
+  }
+},
+{
+  "model": "gestion.credencial",
+  "pk": 11,
+  "fields": {
+    "socio": 11,
+    "codigo": "CR-TBGM-0099",
+    "fecha_emision": "2026-10-28",
+    "activa": true,
+    "tipo": "Socio"
+  }
+},
+{
+  "model": "gestion.entrenador",
+  "pk": 1,
+  "fields": {
+    "nombre": "Carlos",
+    "apellidos": "García López",
+    "email": "entrenador@gimnasio.com",
+    "telefono": "600123456",
+    "fecha_contratacion": "2026-10-28",
+    "activo": true,
+    "especialidades": [
+      1
+    ]
+  }
+},
+{
+  "model": "gestion.entrenador",
+  "pk": 2,
+  "fields": {
+    "nombre": "Goyo",
+    "apellidos": "Vicens Hurtado",
+    "email": "isabelaariza@example.net",
+    "telefono": "+34882 39 22 45",
+    "fecha_contratacion": "2026-02-12",
+    "activo": true,
+    "especialidades": [
+      4
+    ]
+  }
+},
+{
+  "model": "gestion.entrenador",
+  "pk": 3,
+  "fields": {
+    "nombre": "Arcelia",
+    "apellidos": "Hierro Ballesteros",
+    "email": "catalanamador@example.net",
+    "telefono": "+34 984 82 89 5",
+    "fecha_contratacion": "2026-03-20",
+    "activo": true,
+    "especialidades": [
+      7
+    ]
+  }
+},
+{
+  "model": "gestion.entrenador",
+  "pk": 4,
+  "fields": {
+    "nombre": "Benigno",
+    "apellidos": "Jover Quero",
+    "email": "eliaselpidio@example.org",
+    "telefono": "+34827 745 897",
+    "fecha_contratacion": "2023-12-02",
+    "activo": true,
+    "especialidades": [
+      7
+    ]
+  }
+},
+{
+  "model": "gestion.entrenador",
+  "pk": 5,
+  "fields": {
+    "nombre": "Delia",
+    "apellidos": "Perez Montesinos",
+    "email": "nzapata@example.com",
+    "telefono": "+34 920977791",
+    "fecha_contratacion": "2023-08-22",
+    "activo": true,
+    "especialidades": [
+      9
+    ]
+  }
+},
+{
+  "model": "gestion.entrenador",
+  "pk": 6,
+  "fields": {
+    "nombre": "Brunilda",
+    "apellidos": "Cerdán Colom",
+    "email": "xsalcedo@example.org",
+    "telefono": "+34849 986 879",
+    "fecha_contratacion": "2025-06-16",
+    "activo": true,
+    "especialidades": [
+      11
+    ]
+  }
+},
+{
+  "model": "gestion.entrenador",
+  "pk": 7,
+  "fields": {
+    "nombre": "Cándido",
+    "apellidos": "Checa Bueno",
+    "email": "aurea37@example.com",
+    "telefono": "+34884 329 101",
+    "fecha_contratacion": "2025-01-24",
+    "activo": true,
+    "especialidades": [
+      3
+    ]
+  }
+},
+{
+  "model": "gestion.entrenador",
+  "pk": 8,
+  "fields": {
+    "nombre": "Abraham",
+    "apellidos": "Zamorano Iñiguez",
+    "email": "qquerol@example.org",
+    "telefono": "+34988437582",
+    "fecha_contratacion": "2026-09-21",
+    "activo": true,
+    "especialidades": [
+      2
+    ]
+  }
+},
+{
+  "model": "gestion.entrenador",
+  "pk": 9,
+  "fields": {
+    "nombre": "Encarna",
+    "apellidos": "Comas Rios",
+    "email": "faustocalvet@example.net",
+    "telefono": "+34975673929",
+    "fecha_contratacion": "2026-03-19",
+    "activo": true,
+    "especialidades": [
+      10
+    ]
+  }
+},
+{
+  "model": "gestion.entrenador",
+  "pk": 10,
+  "fields": {
+    "nombre": "Paco",
+    "apellidos": "Casares Baró",
+    "email": "dionisia69@example.com",
+    "telefono": "+34983 50 40 88",
+    "fecha_contratacion": "2024-03-25",
+    "activo": true,
+    "especialidades": [
+      5
+    ]
+  }
+},
+{
+  "model": "gestion.entrenador",
+  "pk": 11,
+  "fields": {
+    "nombre": "Sabas",
+    "apellidos": "Pino Lozano",
+    "email": "nnunez@example.com",
+    "telefono": "+34 926 43 51 3",
+    "fecha_contratacion": "2025-05-20",
+    "activo": true,
+    "especialidades": [
+      3
+    ]
+  }
+},
+{
+  "model": "gestion.perfilentrenador",
+  "pk": 1,
+  "fields": {
+    "entrenador": 1,
+    "biografia": "Entrenador del gimnasio",
+    "certificacion": "Entrenador personal",
+    "fecha_nacimiento": "1990-05-15",
+    "tarifa_hora": "20.00",
+    "experiencia_anos": 5
+  }
+},
+{
+  "model": "gestion.perfilentrenador",
+  "pk": 2,
+  "fields": {
+    "entrenador": 2,
+    "biografia": "Habla habla través alguien nada. Problema hermano sigue tarde presenta.\nEso mirada flores nuevo sol lópez estructura. Texto siguiente zona él.",
+    "certificacion": "Miembro de las fuerzas armadas",
+    "fecha_nacimiento": "2001-07-04",
+    "tarifa_hora": "30.00",
+    "experiencia_anos": 21
+  }
+},
+{
+  "model": "gestion.perfilentrenador",
+  "pk": 3,
+  "fields": {
+    "entrenador": 3,
+    "biografia": "Nuestras actitud buen señora claro tipos yo acerca. Tenemos aquella verdad presente.",
+    "certificacion": "Bordador",
+    "fecha_nacimiento": "1982-05-20",
+    "tarifa_hora": "31.00",
+    "experiencia_anos": 4
+  }
+},
+{
+  "model": "gestion.perfilentrenador",
+  "pk": 4,
+  "fields": {
+    "entrenador": 4,
+    "biografia": "Universidad europea crisis especie común. De oro abril yo dolor ambos mercado.",
+    "certificacion": "Soldador y oxicortador",
+    "fecha_nacimiento": "1991-01-20",
+    "tarifa_hora": "22.00",
+    "experiencia_anos": 19
+  }
+},
+{
+  "model": "gestion.perfilentrenador",
+  "pk": 5,
+  "fields": {
+    "entrenador": 5,
+    "biografia": "Habría unidad hemos época peso artículo nuevo.",
+    "certificacion": "Técnico de laboratorio médico",
+    "fecha_nacimiento": "1988-04-23",
+    "tarifa_hora": "28.00",
+    "experiencia_anos": 19
+  }
+},
+{
+  "model": "gestion.perfilentrenador",
+  "pk": 6,
+  "fields": {
+    "entrenador": 6,
+    "biografia": "Estudio juego claro consecuencia día cosa. Pues habrá niños r.",
+    "certificacion": "Pescador, cazador, tramperos y recolector de subsistencia",
+    "fecha_nacimiento": "1989-07-22",
+    "tarifa_hora": "34.00",
+    "experiencia_anos": 17
+  }
+},
+{
+  "model": "gestion.perfilentrenador",
+  "pk": 7,
+  "fields": {
+    "entrenador": 7,
+    "biografia": "Ciencia futuro ellas sea.\nQuizá tu tema antes existencia gran favor. Ejemplo futuro civil será la.",
+    "certificacion": "Controlador de procesos",
+    "fecha_nacimiento": "2002-03-25",
+    "tarifa_hora": "20.00",
+    "experiencia_anos": 25
+  }
+},
+{
+  "model": "gestion.perfilentrenador",
+  "pk": 8,
+  "fields": {
+    "entrenador": 8,
+    "biografia": "Pequeña libros industria tipos. Mundial fútbol fuerzas ya cuestión. Empresas encuentra hubo efectos.",
+    "certificacion": "Director de producción agropecuaria y silvicultura",
+    "fecha_nacimiento": "1981-01-23",
+    "tarifa_hora": "46.00",
+    "experiencia_anos": 25
+  }
+},
+{
+  "model": "gestion.perfilentrenador",
+  "pk": 9,
+  "fields": {
+    "entrenador": 9,
+    "biografia": "Posibilidades esto materia pero reforma capaz negro. Allá cuyo costa hija compañía partidos militar último. Eso presente tratamiento española.",
+    "certificacion": "Mecánico y reparador de instrumentos de precisión",
+    "fecha_nacimiento": "2000-10-27",
+    "tarifa_hora": "34.00",
+    "experiencia_anos": 23
+  }
+},
+{
+  "model": "gestion.perfilentrenador",
+  "pk": 10,
+  "fields": {
+    "entrenador": 10,
+    "biografia": "García garcía cómo carrera quien medio. Dar período esos dar especie cuba también. Palabras tú usted.",
+    "certificacion": "Modelador de vidrio",
+    "fecha_nacimiento": "1997-03-16",
+    "tarifa_hora": "50.00",
+    "experiencia_anos": 7
+  }
+},
+{
+  "model": "gestion.perfilentrenador",
+  "pk": 11,
+  "fields": {
+    "entrenador": 11,
+    "biografia": "Padre seguridad cámara cuerpo vio empresas entrada. Función entrar unos lucha marzo ser parte. Peso popular dar sentido político.",
+    "certificacion": "Operador de instalaciones para la preparación de pasta para papel y papel",
+    "fecha_nacimiento": "1986-09-19",
+    "tarifa_hora": "41.00",
+    "experiencia_anos": 20
+  }
+},
+{
+  "model": "gestion.plancuota",
+  "pk": 1,
+  "fields": {
+    "nombre": "Mensual",
+    "descripcion": "Cuota mensual del gimnasio",
+    "precio": "30.00",
+    "duracion_dias": 30,
+    "activa": true
+  }
+},
+{
+  "model": "gestion.plancuota",
+  "pk": 2,
+  "fields": {
+    "nombre": "Plan visto 0",
+    "descripcion": "Hizo toda constitución tanto sistema análisis. Deseo local juez elementos nacional artículo hoy.",
+    "precio": "46.00",
+    "duracion_dias": 90,
+    "activa": true
+  }
+},
+{
+  "model": "gestion.plancuota",
+  "pk": 3,
+  "fields": {
+    "nombre": "Plan papel 1",
+    "descripcion": "Tratamiento j compañía. Centros seis pronto usted consecuencia. Hacia acciones ir tema.",
+    "precio": "96.00",
+    "duracion_dias": 7,
+    "activa": true
+  }
+},
+{
+  "model": "gestion.plancuota",
+  "pk": 4,
+  "fields": {
+    "nombre": "Plan obstante 2",
+    "descripcion": "Ideas alrededor parece propio análisis quien sistemas. S podrá efecto ni.",
+    "precio": "75.00",
+    "duracion_dias": 30,
+    "activa": true
+  }
+},
+{
+  "model": "gestion.plancuota",
+  "pk": 5,
+  "fields": {
+    "nombre": "Plan pueblo 3",
+    "descripcion": "Los hora rey estas. Ejemplo carta y costa fiscal. Voy estoy octubre político.",
+    "precio": "56.00",
+    "duracion_dias": 7,
+    "activa": true
+  }
+},
+{
+  "model": "gestion.plancuota",
+  "pk": 6,
+  "fields": {
+    "nombre": "Plan película 4",
+    "descripcion": "Visto efectos distintas puntos único. Frente actual pues distintos nuestras.",
+    "precio": "78.00",
+    "duracion_dias": 30,
+    "activa": true
+  }
+},
+{
+  "model": "gestion.plancuota",
+  "pk": 7,
+  "fields": {
+    "nombre": "Plan familia 5",
+    "descripcion": "Político niños mis. Otra propuesta doctor tendrá. Puntos podemos sistemas sería.",
+    "precio": "33.00",
+    "duracion_dias": 30,
+    "activa": true
+  }
+},
+{
+  "model": "gestion.plancuota",
+  "pk": 8,
+  "fields": {
+    "nombre": "Plan industria 6",
+    "descripcion": "Real ese período así carta importante. Instituciones ningún casos primero otras.",
+    "precio": "87.00",
+    "duracion_dias": 30,
+    "activa": true
+  }
+},
+{
+  "model": "gestion.plancuota",
+  "pk": 9,
+  "fields": {
+    "nombre": "Plan tratamiento 7",
+    "descripcion": "Experiencia salud sala cuba puerta. Dirección llevar después viejo.",
+    "precio": "82.00",
+    "duracion_dias": 365,
+    "activa": true
+  }
+},
+{
+  "model": "gestion.plancuota",
+  "pk": 10,
+  "fields": {
+    "nombre": "Plan cuarto 8",
+    "descripcion": "Cierta caso sus única.",
+    "precio": "80.00",
+    "duracion_dias": 30,
+    "activa": true
+  }
+},
+{
+  "model": "gestion.plancuota",
+  "pk": 11,
+  "fields": {
+    "nombre": "Plan debía 9",
+    "descripcion": "Importantes ciencia principios. Ex sin esos estado suerte profesional escuela.",
+    "precio": "24.00",
+    "duracion_dias": 7,
+    "activa": true
+  }
+},
+{
+  "model": "gestion.pago",
+  "pk": 1,
+  "fields": {
+    "socio": 1,
+    "plan": 1,
+    "importe": "30.00",
+    "fecha_pago": "2026-10-28T15:32:19.294Z",
+    "metodo": "TA",
+    "referencia": "",
+    "pagado": true
+  }
+},
+{
+  "model": "gestion.pago",
+  "pk": 2,
+  "fields": {
+    "socio": 8,
+    "plan": 11,
+    "importe": "24.00",
+    "fecha_pago": "2026-10-28T15:32:29.685Z",
+    "metodo": "TR",
+    "referencia": "39774600-b0c8-4b2d-b4c0-10d480a9d99c",
+    "pagado": false
+  }
+},
+{
+  "model": "gestion.pago",
+  "pk": 3,
+  "fields": {
+    "socio": 6,
+    "plan": 3,
+    "importe": "96.00",
+    "fecha_pago": "2026-10-28T15:32:29.686Z",
+    "metodo": "EF",
+    "referencia": "7fe65bd3-70a3-4f30-9b40-ec5662c89cf9",
+    "pagado": false
+  }
+},
+{
+  "model": "gestion.pago",
+  "pk": 4,
+  "fields": {
+    "socio": 4,
+    "plan": 7,
+    "importe": "33.00",
+    "fecha_pago": "2026-10-28T15:32:29.687Z",
+    "metodo": "TA",
+    "referencia": "9e16796a-d9c0-4bde-b886-eae5af9fee8b",
+    "pagado": true
+  }
+},
+{
+  "model": "gestion.pago",
+  "pk": 5,
+  "fields": {
+    "socio": 4,
+    "plan": 9,
+    "importe": "82.00",
+    "fecha_pago": "2026-10-28T15:32:29.687Z",
+    "metodo": "TA",
+    "referencia": "20fe2827-bd08-4d79-8930-5e64e6943691",
+    "pagado": true
+  }
+},
+{
+  "model": "gestion.pago",
+  "pk": 6,
+  "fields": {
+    "socio": 3,
+    "plan": 8,
+    "importe": "87.00",
+    "fecha_pago": "2026-10-28T15:32:29.688Z",
+    "metodo": "EF",
+    "referencia": "50c25833-fd29-4a8a-b91a-3949698f90fe",
+    "pagado": true
+  }
+},
+{
+  "model": "gestion.pago",
+  "pk": 7,
+  "fields": {
+    "socio": 2,
+    "plan": 5,
+    "importe": "56.00",
+    "fecha_pago": "2026-10-28T15:32:29.689Z",
+    "metodo": "TA",
+    "referencia": "22fdb16a-f8c4-4943-a028-13e723ac54a4",
+    "pagado": false
+  }
+},
+{
+  "model": "gestion.pago",
+  "pk": 8,
+  "fields": {
+    "socio": 11,
+    "plan": 8,
+    "importe": "87.00",
+    "fecha_pago": "2026-10-28T15:32:29.689Z",
+    "metodo": "EF",
+    "referencia": "6e1fef9d-49bf-4a8b-aabf-4eaf397c1e60",
+    "pagado": true
+  }
+},
+{
+  "model": "gestion.pago",
+  "pk": 9,
+  "fields": {
+    "socio": 3,
+    "plan": 5,
+    "importe": "56.00",
+    "fecha_pago": "2026-10-28T15:32:29.690Z",
+    "metodo": "TA",
+    "referencia": "4dcc74ec-3ca6-431d-a383-19b194f6ae53",
+    "pagado": false
+  }
+},
+{
+  "model": "gestion.pago",
+  "pk": 10,
+  "fields": {
+    "socio": 2,
+    "plan": 4,
+    "importe": "75.00",
+    "fecha_pago": "2026-10-28T15:32:29.691Z",
+    "metodo": "TR",
+    "referencia": "7f7ed106-eac6-4704-b3cc-e518ed6b6af5",
+    "pagado": false
+  }
+},
+{
+  "model": "gestion.pago",
+  "pk": 11,
+  "fields": {
+    "socio": 4,
+    "plan": 9,
+    "importe": "82.00",
+    "fecha_pago": "2026-10-28T15:32:29.691Z",
+    "metodo": "TA",
+    "referencia": "1702b136-f8b9-43d7-bc69-e74e030d67e1",
+    "pagado": true
+  }
+},
+{
+  "model": "gestion.actividad",
+  "pk": 1,
+  "fields": {
+    "nombre": "Entrenamiento funcional",
+    "descripcion": "Clase de entrenamiento funcional",
+    "entrenador": 1,
+    "aforo": 15,
+    "duracion_minutos": 60,
+    "sala": "Sala 1",
+    "activa": true
+  }
+},
+{
+  "model": "gestion.actividad",
+  "pk": 2,
+  "fields": {
+    "nombre": "Actividad libertad 0",
+    "descripcion": "Muerto tampoco congreso solamente menor josé. Algunas ante oro rosa.",
+    "entrenador": 3,
+    "aforo": 22,
+    "duracion_minutos": 30,
+    "sala": "Sala 4",
+    "activa": true
+  }
+},
+{
+  "model": "gestion.actividad",
+  "pk": 3,
+  "fields": {
+    "nombre": "Actividad sabía 1",
+    "descripcion": "Encuentra diciembre programas hasta tener larga. Precio otras pasa ellas vía méxico.",
+    "entrenador": 11,
+    "aforo": 23,
+    "duracion_minutos": 90,
+    "sala": "Sala 5",
+    "activa": true
+  }
+},
+{
+  "model": "gestion.actividad",
+  "pk": 4,
+  "fields": {
+    "nombre": "Actividad vía 2",
+    "descripcion": "Modelo mayo nuevas. París fuerza mucha real mayo te encuentran.",
+    "entrenador": 6,
+    "aforo": 20,
+    "duracion_minutos": 60,
+    "sala": "Sala 3",
+    "activa": true
+  }
+},
+{
+  "model": "gestion.actividad",
+  "pk": 5,
+  "fields": {
+    "nombre": "Actividad martín 3",
+    "descripcion": "Negro anterior antonio llama plan gran ministerio. Hacer crecimiento producto éxito.",
+    "entrenador": 4,
+    "aforo": 23,
+    "duracion_minutos": 60,
+    "sala": "Sala 3",
+    "activa": true
+  }
+},
+{
+  "model": "gestion.actividad",
+  "pk": 6,
+  "fields": {
+    "nombre": "Actividad segunda 4",
+    "descripcion": "Torno diciembre demás diferentes duda libro tratamiento. Cambios sociedad hacen lado puesto.",
+    "entrenador": 10,
+    "aforo": 9,
+    "duracion_minutos": 60,
+    "sala": "Sala 2",
+    "activa": true
+  }
+},
+{
+  "model": "gestion.actividad",
+  "pk": 7,
+  "fields": {
+    "nombre": "Actividad vino 5",
+    "descripcion": "Viaje necesidad todas u nombre cargo madre. Señor miedo cultural partir.",
+    "entrenador": 9,
+    "aforo": 9,
+    "duracion_minutos": 60,
+    "sala": "Sala 1",
+    "activa": true
+  }
+},
+{
+  "model": "gestion.actividad",
+  "pk": 8,
+  "fields": {
+    "nombre": "Actividad espera 6",
+    "descripcion": "Esas segunda va fuerzas crisis expresión concepto. Como fiscal marzo tan abril.",
+    "entrenador": 4,
+    "aforo": 16,
+    "duracion_minutos": 45,
+    "sala": "Sala 5",
+    "activa": true
+  }
+},
+{
+  "model": "gestion.actividad",
+  "pk": 9,
+  "fields": {
+    "nombre": "Actividad tras 7",
+    "descripcion": "Pesar ellas corazón esta juez partes. Lado paso instituciones natural enfermedad.",
+    "entrenador": 3,
+    "aforo": 24,
+    "duracion_minutos": 90,
+    "sala": "Sala 3",
+    "activa": true
+  }
+},
+{
+  "model": "gestion.actividad",
+  "pk": 10,
+  "fields": {
+    "nombre": "Actividad dinero 8",
+    "descripcion": "Estaban sociales asunto mitad. Población c torno jamás psoe.",
+    "entrenador": 11,
+    "aforo": 17,
+    "duracion_minutos": 30,
+    "sala": "Sala 4",
+    "activa": true
+  }
+},
+{
+  "model": "gestion.actividad",
+  "pk": 11,
+  "fields": {
+    "nombre": "Actividad casa 9",
+    "descripcion": "Profesional medida actividades aspectos santiago. Fin habla pese producción mismos.",
+    "entrenador": 6,
+    "aforo": 8,
+    "duracion_minutos": 90,
+    "sala": "Sala 3",
+    "activa": true
+  }
+},
+{
+  "model": "gestion.reserva",
+  "pk": 1,
+  "fields": {
+    "socio": 1,
+    "actividad": 1,
+    "fecha_reserva": "2026-10-29T15:32:19.294Z",
+    "estado": "C",
+    "asistio": false,
+    "observaciones": ""
+  }
+},
+{
+  "model": "gestion.reserva",
+  "pk": 2,
+  "fields": {
+    "socio": 8,
+    "actividad": 9,
+    "fecha_reserva": "2026-10-29T15:32:29.686Z",
+    "estado": "C",
+    "asistio": false,
+    "observaciones": "Del hora favor. Menor misma noviembre mañana tras mantener dejar."
+  }
+},
+{
+  "model": "gestion.reserva",
+  "pk": 3,
+  "fields": {
+    "socio": 6,
+    "actividad": 10,
+    "fecha_reserva": "2026-10-30T15:32:29.686Z",
+    "estado": "P",
+    "asistio": false,
+    "observaciones": "Respecto prensa donde. Puso único después información han mismos consumo."
+  }
+},
+{
+  "model": "gestion.reserva",
+  "pk": 4,
+  "fields": {
+    "socio": 4,
+    "actividad": 8,
+    "fecha_reserva": "2026-10-31T15:32:29.687Z",
+    "estado": "P",
+    "asistio": true,
+    "observaciones": "Fin ir habla marcha. República hubo mal formación esa. Y te términos decía."
+  }
+},
+{
+  "model": "gestion.reserva",
+  "pk": 5,
+  "fields": {
+    "socio": 4,
+    "actividad": 9,
+    "fecha_reserva": "2026-11-01T15:32:29.688Z",
+    "estado": "P",
+    "asistio": false,
+    "observaciones": "Volvió acuerdo espacio más especialmente. Salud usted orden san."
+  }
+},
+{
+  "model": "gestion.reserva",
+  "pk": 6,
+  "fields": {
+    "socio": 3,
+    "actividad": 7,
+    "fecha_reserva": "2026-11-02T15:32:29.688Z",
+    "estado": "A",
+    "asistio": true,
+    "observaciones": "Problemas amigos ii proyectos. Ni bajo nuestro especial. Hijos carrera estado o muestra siquiera."
+  }
+},
+{
+  "model": "gestion.reserva",
+  "pk": 7,
+  "fields": {
+    "socio": 2,
+    "actividad": 2,
+    "fecha_reserva": "2026-11-03T15:32:29.689Z",
+    "estado": "A",
+    "asistio": true,
+    "observaciones": "Mano ciudad larga ella juego. Chile secretario imagen españa cinco elementos."
+  }
+},
+{
+  "model": "gestion.reserva",
+  "pk": 8,
+  "fields": {
+    "socio": 11,
+    "actividad": 2,
+    "fecha_reserva": "2026-11-04T15:32:29.690Z",
+    "estado": "C",
+    "asistio": false,
+    "observaciones": "Pie diario estuvo. Siquiera movimiento voz diversos."
+  }
+},
+{
+  "model": "gestion.reserva",
+  "pk": 9,
+  "fields": {
+    "socio": 3,
+    "actividad": 6,
+    "fecha_reserva": "2026-11-05T15:32:29.690Z",
+    "estado": "P",
+    "asistio": true,
+    "observaciones": "Ninguna propia período trata. Ley negro quería llevar."
+  }
+},
+{
+  "model": "gestion.reserva",
+  "pk": 10,
+  "fields": {
+    "socio": 2,
+    "actividad": 9,
+    "fecha_reserva": "2026-11-06T15:32:29.691Z",
+    "estado": "P",
+    "asistio": true,
+    "observaciones": "Única r policía. Luis ver forma países."
+  }
+},
+{
+  "model": "gestion.reserva",
+  "pk": 11,
+  "fields": {
+    "socio": 4,
+    "actividad": 5,
+    "fecha_reserva": "2026-11-07T15:32:29.692Z",
+    "estado": "A",
+    "asistio": true,
+    "observaciones": "Ley barcelona padres crecimiento interior precio. Datos es algún próximo."
+  }
+},
+{
+  "model": "gestion.especialidad",
+  "pk": 1,
+  "fields": {
+    "nombre": "Fitness",
+    "descripcion": "Entrenamiento general",
+    "nivel": 1,
+    "codigo": "fitness",
+    "activa": true
+  }
+},
+{
+  "model": "gestion.especialidad",
+  "pk": 2,
+  "fields": {
+    "nombre": "Peón de jardinería y horticultura 0",
+    "descripcion": "Imágenes busca una gonzález. Socialista hacia experiencia total mil un origen hacer.",
+    "nivel": 1,
+    "codigo": "fitness-language-really-day-0",
+    "activa": true
+  }
+},
+{
+  "model": "gestion.especialidad",
+  "pk": 3,
+  "fields": {
+    "nombre": "Joyero 1",
+    "descripcion": "Noche interior podrá trata hoy. Peor total defensa capaz casos presidente.",
+    "nivel": 1,
+    "codigo": "fitness-his-top-learn-1",
+    "activa": true
+  }
+},
+{
+  "model": "gestion.especialidad",
+  "pk": 4,
+  "fields": {
+    "nombre": "Gorjadore 2",
+    "descripcion": "Hacen solo ministerio hija nuevas.",
+    "nivel": 2,
+    "codigo": "fitness-staff-tv-congress-2",
+    "activa": true
+  }
+},
+{
+  "model": "gestion.especialidad",
+  "pk": 5,
+  "fields": {
+    "nombre": "Mecánico y reparador de vehículos de motor 3",
+    "descripcion": "Origen centro ahí ayer. Mesa resultado dólares sola.",
+    "nivel": 5,
+    "codigo": "fitness-his-radio-good-type-3",
+    "activa": true
+  }
+},
+{
+  "model": "gestion.especialidad",
+  "pk": 6,
+  "fields": {
+    "nombre": "Herrero 4",
+    "descripcion": "Al universidad caso mismos varios justicia.\nJosé encuentra ella trabajar menos.",
+    "nivel": 2,
+    "codigo": "fitness-financial-measure-4",
+    "activa": true
+  }
+},
+{
+  "model": "gestion.especialidad",
+  "pk": 7,
+  "fields": {
+    "nombre": "Psicólogo 5",
+    "descripcion": "Hospital dicen pocos viejo intereses. Vía espacio deben son hospital encuentro donde.",
+    "nivel": 4,
+    "codigo": "fitness-describe-reach-5",
+    "activa": true
+  }
+},
+{
+  "model": "gestion.especialidad",
+  "pk": 8,
+  "fields": {
+    "nombre": "Técnico en optometría y ópticos 6",
+    "descripcion": "Actividad cómo les donde frente yo relaciones. Pueblo aire española contra. Sus tierra dolor serán.",
+    "nivel": 2,
+    "codigo": "fitness-the-stay-where-6",
+    "activa": true
+  }
+},
+{
+  "model": "gestion.especialidad",
+  "pk": 9,
+  "fields": {
+    "nombre": "Actuario 7",
+    "descripcion": "Cosas razones día líder tras sin hemos. Cuanto julio mercado quizá. Me lucha me.",
+    "nivel": 5,
+    "codigo": "fitness-source-century-7",
+    "activa": true
+  }
+},
+{
+  "model": "gestion.especialidad",
+  "pk": 10,
+  "fields": {
+    "nombre": "Operador de máquinas de vapor y calderas 8",
+    "descripcion": "Texto cada además cuestión. Antes juez niño.",
+    "nivel": 2,
+    "codigo": "fitness-less-yeah-short-8",
+    "activa": true
+  }
+},
+{
+  "model": "gestion.especialidad",
+  "pk": 11,
+  "fields": {
+    "nombre": "Agente inmobiliario 9",
+    "descripcion": "Riesgo blanca director señor medios. Aquel flores personas industria podría gran.",
+    "nivel": 1,
+    "codigo": "fitness-yard-democratic-9",
+    "activa": true
+  }
+}
+]
